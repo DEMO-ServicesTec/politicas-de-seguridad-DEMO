@@ -1,3 +1,1 @@
-# Twittor
-
-Un cascarón de chat usando jQuery para PWAs
+# Políticas de segurida para la aplicación Conecta-T by DEMO
